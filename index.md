@@ -12,9 +12,7 @@ I am a Ph.D candidate in public policy at the City University of Hong Kong. I wi
 
 My field of interest include environment economics, urban resilience, computational social science, and collaborative governance.
 
-My CV is here.
-
-You can reach me at 
+My CV is here. You can reach me at zhihayuan2-c@my.cityu.edu.hk
 
 <br>
 
